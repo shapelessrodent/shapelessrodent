@@ -1,6 +1,6 @@
 >[!note]
-> Main git host: [Tangled](https://tangled.org/katzenhummer.xyz).
+> Main git host: [Tangled](https://tangled.org/shapelessrodent.xyz).
 
 Robotics Engineer. I enjoy my freedom.
 
-[Website](https://katzenhummer.xyz).
+[Website](https://shapelessrodent.xyz).
